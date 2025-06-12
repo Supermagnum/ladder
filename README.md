@@ -13,3 +13,7 @@ The stl file can be imported in to  common 3D printer software.
 Theres also one version with ribs,- to maximise the voltage tolerance.
 
 https://github.com/Supermagnum/ladder/blob/main/ladder-holder-ribbed.stl
+
+
+Picture:
+https://github.com/Supermagnum/ladder/blob/main/holders.png
